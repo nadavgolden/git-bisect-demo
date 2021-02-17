@@ -12,3 +12,5 @@ def add(a, b):
 # Made change #5
 
 # Made change #6
+
+# Made change #7
