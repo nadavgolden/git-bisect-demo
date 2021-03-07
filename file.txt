@@ -6,3 +6,4 @@ commits
 in
 this
 branch.
+Squash
